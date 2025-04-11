@@ -1,0 +1,9 @@
+mediapipe==0.10.21
+numpy
+cmake
+ninja
+setuptools
+wheel
+opencv-python
+mediapipe==0.10.21
+pyautogui==0.9.54
