@@ -5,7 +5,7 @@
 ```markdown
 # 🖱️ Virtual Mouse Pointer using Hand Gesture Recognition
 
-This project demonstrates a **Virtual Mouse System** that allows users to control the mouse pointer using **hand gestures** detected via a webcam. It leverages **OpenCV** and **MediaPipe** to track hand movements and translate them into mouse cursor actions like movement, click, and drag — offering a contactless, innovative way to interact with a computer.
+This project demonstrates a Virtual Mouse System that allows users to control the mouse pointer using hand gestures detected via a webcam. It leverages OpenCV and MediaPipe to track hand movements and translate them into mouse cursor actions like movement, click, and drag — offering a contactless, innovative way to interact with a computer.
 
 ---
 
